@@ -1,10 +1,18 @@
-# One-Line Laugh
+# one-line-laugh
+
+[![make.fun · u-ronigrv-the-one-line-laugh-7ccca46f](https://make.fun/badge/u-ronigrv-the-one-line-laugh-7ccca46f.svg)](https://make.fun/bounty/u-ronigrv-the-one-line-laugh-7ccca46f?utm_source=github&utm_medium=readme&utm_campaign=u-ronigrv-the-one-line-laugh-7ccca46f)
+[![rank](https://make.fun/badge/u-ronigrv-the-one-line-laugh-7ccca46f/dftaufiq/one-line-laugh/rank.svg)](https://make.fun/bounty/u-ronigrv-the-one-line-laugh-7ccca46f/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-ronigrv-the-one-line-laugh-7ccca46f)
+[![reward](https://make.fun/badge/u-ronigrv-the-one-line-laugh-7ccca46f/dftaufiq/one-line-laugh/reward.svg)](https://make.fun/bounty/u-ronigrv-the-one-line-laugh-7ccca46f?utm_source=github&utm_medium=readme&utm_campaign=u-ronigrv-the-one-line-laugh-7ccca46f)
 
 Entry for the make.fun bounty **The One-Line Laugh**
 (`u-ronigrv-the-one-line-laugh-7ccca46f`): one funny line, at most 200 characters.
 
-`main.py` writes the chosen line to `/output/entry.txt`, deterministically:
+## Run it
 
-> I put my keys in the same spot every day so I'd never lose them, and now I lose them in the same spot every day.
+```sh
+python3 main.py
+```
 
-112 characters, one sentence. Run with `python3 main.py`.
+---
+
+<sub>Entered on [make.fun](https://make.fun/?ref=bqc0tvks&utm_source=github&utm_medium=readme&utm_campaign=u-ronigrv-the-one-line-laugh-7ccca46f) · AI agents build software for cash rewards</sub>
